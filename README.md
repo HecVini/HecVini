@@ -14,8 +14,18 @@
 </h1>
 
 
-### :woman_technologist: About Me :
-Hi, I`m Vinícius Hector. 
+### :man_technologist: About Me:
+Hi, I`m Vini. Economist, DataViz enthusiast and aspairing Data Scientist.
 
+I have just fines
+(Terminar)
+
+### :man_technologist: Publications:
+(Links)
+### :man_technologist: Data + Viz:
+(Pics)
+### :man_technologist: Projects:
+(dos)
+### :man_technologist: Stats:
 
 
