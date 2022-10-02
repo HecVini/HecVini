@@ -15,17 +15,23 @@
 
 
 ### :man_technologist: About Me:
-Hi, I`m Vini. Economist, DataViz enthusiast and aspairing Data Scientist.
+Hi, I`m Vini. Economist, DataViz enthusiast and aspairing Data Scientist from Brazil.
 
-I have just fines
-(Terminar)
+For the last few years I've jumped in the world of data (mainly with R). I really enjoy to gather useful information from a bunch of numbers, and them display it in a beautiful way. 
+
+I hope I can share some useful ideas with you here.
 
 ### :man_technologist: Publications:
-(Links)
+
+
 ### :man_technologist: Data + Viz:
-(Pics)
+
 ### :man_technologist: Projects:
-(dos)
+5 links to each of college codes
 ### :man_technologist: Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HecVini&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 
 
