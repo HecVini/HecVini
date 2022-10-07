@@ -27,18 +27,8 @@ I hope I can share some useful ideas with you here.
 * Vargas, D., & Hector, V. (2022, December 17). [Acre deve virar Rondônia? Ou Rondônia deve virar o Acre?](https://economia.estadao.com.br/blogs/mosaico-de-economia/acre-deve-virar-rondonia-ou-rondonia-deve-virar-o-acre/) _O Estado de S. Paulo_.
 
 ### :bar_chart: Data + Viz:
-emissions pc
-ndcs
-distibuicao de renda brazil
-acre e rondonia
-dog breeds
+(Building)
 ### :chart_with_upwards_trend: Projects:
-5 links to each of college codes
-1 relatorio
-2 relatorio
-observatorio numbers
-pibic
-tidytuesday 2022
-monografia
+(Under Construction)
 ### :man_technologist: Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HecVini&theme=dark&background=000000)](https://git.io/streak-stats)
