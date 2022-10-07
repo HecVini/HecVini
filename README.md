@@ -23,7 +23,7 @@ I hope I can share some useful ideas with you here.
 
 ### :book: Publications:
 * Vargas, D., Delazeri, L., & Hector, V. (2022). [Voluntary Carbon Market in Brazil: in Reality and in Practice](https://eesp.fgv.br/sites/eesp.fgv.br/files/ocbio_mercado_de_carbono_voluntario_no_brasil_na_realidade_e_na_pratica_en.pdf). Observatório de Bioeconomia. 
-*Vargas, D., Delazeri, L., & Hector, V. (2022). [O Avanço do Mercado Voluntário de Carbono no Brasil: Desafios Estruturais, Técnicos e Científicos](https://eesp.fgv.br/sites/eesp.fgv.br/files/eesp_relatorio_lab_bioeconomia_04_ap5.pdf). Observatório de Bioeconomia.
+* Vargas, D., Delazeri, L., & Hector, V. (2022). [O Avanço do Mercado Voluntário de Carbono no Brasil: Desafios Estruturais, Técnicos e Científicos](https://eesp.fgv.br/sites/eesp.fgv.br/files/eesp_relatorio_lab_bioeconomia_04_ap5.pdf). Observatório de Bioeconomia.
 * Vargas, D., & Hector, V. (2022, December 17). [Acre deve virar Rondônia? Ou Rondônia deve virar o Acre?](https://economia.estadao.com.br/blogs/mosaico-de-economia/acre-deve-virar-rondonia-ou-rondonia-deve-virar-o-acre/) _O Estado de S. Paulo_.
 * Vargas, D., Belmiro, M. L., Tavares, M., Hector, V., Andreiuolo, B., & Nery, G. (2020). [O Combate à Covid-19 pelo Mundo: Como Estado, Sociedade Civil e Iniciativa Privada Atuaram no Combate à Pandemia? (Janeiro a Maio de 2020)](https://www.amazon.com.br/Combate-Covid-19-pelo-Mundo-Iniciativa-ebook/dp/B08G1TN834/ref=d_reads_cwrtbar_sccl_1_1/147-4371188-2966429?pd_rd_w=4z2C5&content-id=amzn1.sym.7d29de4b-61e7-4ec5-87db-7d21c388fb1d&pf_rd_p=7d29de4b-61e7-4ec5-87db-7d21c388fb1d&pf_rd_r=PAHD69C82AFGY4XC7FQT&pd_rd_wg=dT4u2&pd_rd_r=43392114-dc4d-4ab0-8720-bb99a9d43c64&pd_rd_i=B08G1TN834&psc=1). FGV Direito Rio.
 
