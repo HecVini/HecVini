@@ -28,8 +28,6 @@ I hope I can share some useful ideas with you here.
 * Vargas, D., Belmiro, M. L., Tavares, M., Hector, V., Andreiuolo, B., & Nery, G. (2020). [O Combate à Covid-19 pelo Mundo: Como Estado, Sociedade Civil e Iniciativa Privada Atuaram no Combate à Pandemia? (Janeiro a Maio de 2020)](https://www.amazon.com.br/Combate-Covid-19-pelo-Mundo-Iniciativa-ebook/dp/B08G1TN834/ref=d_reads_cwrtbar_sccl_1_1/147-4371188-2966429?pd_rd_w=4z2C5&content-id=amzn1.sym.7d29de4b-61e7-4ec5-87db-7d21c388fb1d&pf_rd_p=7d29de4b-61e7-4ec5-87db-7d21c388fb1d&pf_rd_r=PAHD69C82AFGY4XC7FQT&pd_rd_wg=dT4u2&pd_rd_r=43392114-dc4d-4ab0-8720-bb99a9d43c64&pd_rd_i=B08G1TN834&psc=1). FGV Direito Rio.
 
 ### :bar_chart: Data + Viz:
-
-
 <div id="image-table">
     <table>
 	    <tr>
@@ -41,6 +39,21 @@ I hope I can share some useful ideas with you here.
             </td>
             <td style="padding:10px">
             	<img src="https://github.com/HecVini/DataViz/blob/main/DesmatamentoAmazoniaUFs.png" width="300"/>
+            </td>
+        </tr>
+    </table>
+</div>
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="https://github.com/HecVini/DataViz/blob/main/DogBreeds.png" width="300"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="https://github.com/HecVini/DataViz/blob/main/DesmatamentoAmazoniaGestoesMMA.png" width="300"/>
+            </td>
+            <td style="padding:10px">
+            	<img src="https://github.com/HecVini/DataViz/blob/main/EmissoesAnoBase.png" width="300"/>
             </td>
         </tr>
     </table>
@@ -57,7 +70,3 @@ tidytuesday 2022
 monografia
 ### :man_technologist: Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HecVini&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
-
