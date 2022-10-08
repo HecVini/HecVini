@@ -29,17 +29,23 @@ I hope I can share some useful ideas with you here.
 
 ### :bar_chart: Data + Viz:
 
-<div style="display:flex">
-     <div style="flex:1;padding-right:10px;">
-          <img src="https://github.com/HecVini/DataViz/blob/main/Eleicoes2022_RegiaoImediata.png" width="300"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="https://github.com/HecVini/DataViz/blob/main/MiddlePassage.jpg" width="300"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="https://github.com/HecVini/DataViz/blob/main/DesmatamentoAmazoniaUFs.png" width="200"/>
-     </div>
+
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="https://github.com/HecVini/DataViz/blob/main/DorlingMapEleicoes2022.R" width="200"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="https://github.com/HecVini/DataViz/blob/main/MiddlePassage.jpg" width="200"/>
+            </td>
+            <td style="padding:10px">
+            	<img src="https://github.com/HecVini/DataViz/blob/main/DesmatamentoAmazoniaUFs.png" width="200"/>
+            </td>
+        </tr>
+    </table>
 </div>
+
 
 ### :chart_with_upwards_trend: Projects:
 5 links to each of college codes
