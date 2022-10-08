@@ -50,7 +50,7 @@ I hope I can share some useful ideas with you here.
         	    <img src="https://github.com/HecVini/DataViz/blob/main/DesmatamentoAmazoniaGestoesMMA.png" width="300"/>
       	    </td>
             <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataViz/blob/main/DesmatamentoAmazoniaGestoesMMA.png" width="300"/>
+            	<img src="https://github.com/HecVini/DataViz/blob/main/Emissoes2010to2030.png" width="300"/>
             </td>
             <td style="padding:10px">
             	<img src="https://github.com/HecVini/DataViz/blob/main/EmissoesAnoBase.png" width="300"/>
@@ -70,3 +70,7 @@ tidytuesday 2022
 monografia
 ### :man_technologist: Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HecVini&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
+
