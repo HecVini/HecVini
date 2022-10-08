@@ -34,7 +34,7 @@ I hope I can share some useful ideas with you here.
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="https://github.com/HecVini/DataViz/blob/main/DorlingMapEleicoes2022.R" width="200"/>
+        	    <img src="https://github.com/HecVini/DataViz/blob/main/Eleicoes2022_RegiaoImediata.png" width="200"/>
       	    </td>
             <td style="padding:10px">
             	<img src="https://github.com/HecVini/DataViz/blob/main/MiddlePassage.jpg" width="200"/>
