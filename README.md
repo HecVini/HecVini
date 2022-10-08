@@ -47,7 +47,7 @@ I hope I can share some useful ideas with you here.
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="https://github.com/HecVini/DataViz/blob/main/DogBreeds.png" width="300"/>
+        	    <img src="https://github.com/HecVini/DataViz/blob/main/DesmatamentoAmazoniaGestoesMMA.png" width="300"/>
       	    </td>
             <td style="padding:10px">
             	<img src="https://github.com/HecVini/DataViz/blob/main/DesmatamentoAmazoniaGestoesMMA.png" width="300"/>
