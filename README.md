@@ -16,7 +16,7 @@
 
 
 ### :man_technologist: About Me:
-Hi, I`m Vinicius. Economist, DataViz enthusiast and aspairing Data Scientist from Brazil.
+Hi, I`m Vinicius. Economist, DataViz enthusiast and aspairing Data Scientist.
 
 For the last few years I've jumped into the world of data (mainly with R). I really enjoy to gather useful information from a bunch of numbers, and them display it in a beautiful way. 
 
