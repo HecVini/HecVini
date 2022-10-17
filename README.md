@@ -16,7 +16,7 @@
 
 
 ### :man_technologist: About Me:
-Hi, I`m Vinicius. Economist, DataViz enthusiast and aspairing Data Scientist.
+Hi, I`m Vinicius. Economist, DataViz enthusiast and aspairing Data Scientist from Brazil.
 
 For the last few years I've jumped into the world of data (mainly with R). I really enjoy to gather useful information from a bunch of numbers, and them display it in a beautiful way. 
 
@@ -33,13 +33,13 @@ I hope I can share some useful ideas with you here.
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="https://github.com/HecVini/DataViz/blob/main/Eleicoes2022_RegiaoImediata.png" width="300"/>
+        	    <img src="https://github.com/HecVini/DataVizProjects/blob/main/Brazilian2022Elections_DorlingCartogram/Eleicoes2022_RegiaoImediata.png" width="300"/>
       	    </td>
             <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataViz/blob/main/MiddlePassage.jpg" width="300"/>
+            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/MiddlePassage.jpg" width="300"/>
             </td>
             <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataViz/blob/main/DesmatamentoAmazoniaUFs.png" width="300"/>
+            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaUFs.png" width="300"/>
             </td>
         </tr>
     </table>
@@ -48,13 +48,13 @@ I hope I can share some useful ideas with you here.
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="https://github.com/HecVini/DataViz/blob/main/DesmatamentoAmazoniaGestoesMMA.png" width="300"/>
+        	    <img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaGestoesMMA.png" width="300"/>
       	    </td>
             <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataViz/blob/main/Emissoes2010to2030.png" width="300"/>
+            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/Emissoes2010to2030.png" width="300"/>
             </td>
             <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataViz/blob/main/EmissoesAnoBase.png" width="300"/>
+            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/EmissoesAnoBase.png" width="300"/>
             </td>
         </tr>
     </table>
