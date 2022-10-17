@@ -1,3 +1,4 @@
+
 <div id="badges">
   <a href="https://linkedin.com/in/viniciushector">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -27,7 +28,7 @@ I hope I can share some useful ideas with you here.
 * Vargas, D., & Hector, V. (2022, December 17). [Acre deve virar Rondônia? Ou Rondônia deve virar o Acre?](https://economia.estadao.com.br/blogs/mosaico-de-economia/acre-deve-virar-rondonia-ou-rondonia-deve-virar-o-acre/) _O Estado de S. Paulo_.
 * Vargas, D., Belmiro, M. L., Tavares, M., Hector, V., Andreiuolo, B., & Nery, G. (2020). [O Combate à Covid-19 pelo Mundo: Como Estado, Sociedade Civil e Iniciativa Privada Atuaram no Combate à Pandemia? (Janeiro a Maio de 2020)](https://www.amazon.com.br/Combate-Covid-19-pelo-Mundo-Iniciativa-ebook/dp/B08G1TN834/ref=d_reads_cwrtbar_sccl_1_1/147-4371188-2966429?pd_rd_w=4z2C5&content-id=amzn1.sym.7d29de4b-61e7-4ec5-87db-7d21c388fb1d&pf_rd_p=7d29de4b-61e7-4ec5-87db-7d21c388fb1d&pf_rd_r=PAHD69C82AFGY4XC7FQT&pd_rd_wg=dT4u2&pd_rd_r=43392114-dc4d-4ab0-8720-bb99a9d43c64&pd_rd_i=B08G1TN834&psc=1). FGV Direito Rio.
 
-### :bar_chart: Data + Viz:
+### :bar_chart: DataViz:
 <div id="image-table">
     <table>
 	    <tr>
@@ -61,10 +62,10 @@ I hope I can share some useful ideas with you here.
 
 
 ### :chart_with_upwards_trend: Projects:
-(Upcoming)
+* [**Databook Repo**](https://github.com/HecVini/DatabookRepo): complete repository with data on GHG emissions, the Brazilian economy, and the environment. Mostly gathered during my internship at Observatório de Bioeconomia/FGV.
+* [**TidyTuesday**](https://github.com/HecVini/TidyTuesday): some visualizations made to share on #TidyTuesday challenges. Every viz has its code attached.
+
+* [**CollegeCodes**](https://github.com/HecVini/CollegeCodes): academic projects that I worked on during my BSc in Economics. Mostly in R. This repository aims to be a tracker of the development of my coding skills, since I first learned how to code, back in late 2020.
+
 ### :man_technologist: Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HecVini&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
-
