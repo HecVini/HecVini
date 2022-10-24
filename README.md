@@ -33,13 +33,13 @@ I hope I can share some useful ideas with you here.
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="https://github.com/HecVini/DataVizProjects/blob/main/Brazilian2022Elections_DorlingCartogram/Eleicoes2022_RegiaoImediata.png" width="300"/>
+        	    <img src="https://github.com/HecVini/DataVizProjects/blob/main/Exportacoes2021/ExportacoesBrasileiras2021.png" width="300"/>
       	    </td>
             <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/MiddlePassage.jpg" width="300"/>
+            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/Brazilian2022Elections_DorlingCartogram/Eleicoes2022_RegiaoImediata.png" width="300"/>
             </td>
             <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaUFs.png" width="300"/>
+            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/MiddlePassage.jpg" width="300"/>
             </td>
         </tr>
     </table>
@@ -48,15 +48,18 @@ I hope I can share some useful ideas with you here.
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaGestoesMMA.png" width="300"/>
+        	    <img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaUFs.png" width="300"/>
       	    </td>
+            <td style="padding:10px">
+            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaGestoesMMA.png" width="300" width="300"/>
+            </td>
             <td style="padding:10px">
             	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/Emissoes2010to2030.png" width="300"/>
             </td>
-            <td style="padding:10px">
+        </tr>
+        <td style="padding:10px">
             	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/EmissoesAnoBase.png" width="300"/>
             </td>
-        </tr>
     </table>
 </div>
 
@@ -69,3 +72,7 @@ I hope I can share some useful ideas with you here.
 
 ### :man_technologist: Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HecVini&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
+
