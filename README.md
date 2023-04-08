@@ -1,4 +1,7 @@
 
+
+
+
 <div id="badges">
   <a href="https://linkedin.com/in/viniciushector">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,11 +19,12 @@
 
 
 ### :man_technologist: About Me:
-Hi, I`m Vinicius. Economist, DataViz enthusiast and aspairing Data Scientist from Brazil.
 
-For the last few years I've jumped into the world of data (mainly with R). I really enjoy to gather useful information from a bunch of numbers, and them display it in a beautiful way. 
+Hi, I`m Vinicius. Economist, Master's Student in Economics and DataViz enthusiast from Brazil.
 
-I hope I can share some useful ideas with you here.
+Exploring data became central in my late work, and I wanna share some ideas and techniques here. The repositories below are mostly about different data sources exploration and DataViz. 
+
+I hope it helps you!
 
 ### :book: Publications:
 * Vargas, D., Delazeri, L., & Hector, V. (2022). [Voluntary Carbon Market in Brazil: in Reality and in Practice](https://eesp.fgv.br/sites/eesp.fgv.br/files/ocbio_mercado_de_carbono_voluntario_no_brasil_na_realidade_e_na_pratica_en.pdf). Observatório de Bioeconomia. 
@@ -33,13 +37,13 @@ I hope I can share some useful ideas with you here.
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="https://github.com/HecVini/DataVizProjects/blob/main/Exportacoes2021/ExportacoesBrasileiras2021.png" width="300"/>
+        	    <img src="https://github.com/HecVini/DataVizProjects/blob/main/GlobalInequality/GlobalInequality_Day6.png" width="300"/>
       	    </td>
             <td style="padding:10px">
             	<img src="https://github.com/HecVini/DataVizProjects/blob/main/Brazilian2022Elections_DorlingCartogram/Eleicoes2022_RegiaoImediata.png" width="300"/>
             </td>
             <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/MiddlePassage.jpg" width="300"/>
+            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/Exportacoes2021/ExportacoesBrasileiras2021.png" width="300"/>
             </td>
         </tr>
     </table>
@@ -48,30 +52,35 @@ I hope I can share some useful ideas with you here.
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaUFs.png" width="300"/>
+        	    <img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/MiddlePassage.jpg" width="300"/>
       	    </td>
+            <td style="padding:10px">
+            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaUFs.png" width="300"/>
+            </td>
             <td style="padding:10px">
             	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaGestoesMMA.png" width="300" width="300"/>
             </td>
-            <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/Emissoes2010to2030.png" width="300"/>
-            </td>
         </tr>
         <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/EmissoesAnoBase.png" width="300"/>
-            </td>
+            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/Emissoes2010to2030.png" width="300"/>
+            </td>   
+            <td style="padding:10px">
+        	    <img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/EmissoesAnoBase.png" width="300"/>
+      	    </td>
     </table>
 </div>
 
 
 ### :chart_with_upwards_trend: Projects:
-* [**Databook Repo**](https://github.com/HecVini/DatabookRepo): complete repository with data on GHG emissions, the Brazilian economy, and the environment. Mostly gathered during my internship at Observatório de Bioeconomia/FGV.
-* [**TidyTuesday**](https://github.com/HecVini/TidyTuesday): some visualizations made to share on #TidyTuesday challenges. Every viz has its code attached.
+* [**DataViz Chest**](https://github.com/HecVini/DataVizProjects): Some visualizations I've done for fun. Mostly in R with commented codes attached. I usually post them on [Twitter](https://twitter.com/hec_vini) and make a short thread to explain further details on the topic.
 
-* [**CollegeCodes**](https://github.com/HecVini/CollegeCodes): academic projects that I worked on during my BSc in Economics. Mostly in R. This repository aims to be a tracker of the development of my coding skills, since I first learned how to code, back in late 2020.
+* [**Databook Repo**](https://github.com/HecVini/DatabookRepo): complete repository with data on GHG emissions, the Brazilian economy and the environment. Mostly gathered during my internship at Observatório de Bioeconomia/FGV.
+
+* [**CollegeCodes**](https://github.com/HecVini/CollegeCodes): academic projects that I worked on during my undergraduation in Economics. Mostly in R. This repository aims to be a tracker my coding skills development, since I first learned how to code, back in late 2020.
 
 ### :man_technologist: Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HecVini&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 
