@@ -39,7 +39,7 @@ I hope it helps you!
             	<img src="https://github.com/HecVini/DataVizProjects/blob/main/Brazilian2022Elections_DorlingCartogram/Eleicoes2022_RegiaoImediata.png" width="300"/>
             </td>
             <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/Exportacoes2021/ExportacoesBrasileiras2021.png" width="300"/>
+            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/30DayMapChallange_2022/Day1_Points/BrazilianPowerPlants.png" width="300"/>
             </td>
         </tr>
     </table>
@@ -51,15 +51,18 @@ I hope it helps you!
         	    <img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/MiddlePassage.jpg" width="300"/>
       	    </td>
             <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaUFs.png" width="300"/>
+        	    <img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/MiddlePassage.jpg" width="300"/>
             </td>
             <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaGestoesMMA.png" width="300" width="300"/>
+            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaUFs.png" width="300"/>
             </td>
         </tr>
         <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/Emissoes2010to2030.png" width="300"/>
+            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaGestoesMMA.png" width="300" width="300"/>
             </td>   
+            <td style="padding:10px">
+            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/Emissoes2010to2030.png" width="300"/>
+        	                </td>   
             <td style="padding:10px">
         	    <img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/EmissoesAnoBase.png" width="300"/>
       	    </td>
@@ -81,4 +84,3 @@ I hope it helps you!
 
 
 
-](https://github.com/HecVini/DataVizProjects/blob/main/30DayMapChallange_2022/Day1_Points/BrazilianPowerPlants.png)
