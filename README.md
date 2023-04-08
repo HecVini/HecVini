@@ -18,7 +18,7 @@
 
 Hi, I`m Vinicius. Economist, Master's Student in Economics and DataViz enthusiast from Brazil.
 
-Exploring data became central in my late work, and I wanna share some ideas and techniques here. The repositories below are mostly about different data sources exploration and DataViz. 
+Exploring data became central in my late work, and I wanna share some ideas and techniques here. The repositories below are mostly about data exploration and DataViz. 
 
 I hope it helps you!
 
