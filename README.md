@@ -1,3 +1,7 @@
+
+
+
+
 <div id="badges">
   <a href="https://linkedin.com/in/viniciushector">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,9 +22,9 @@
 
 Hi, I`m Vinicius. Economist, Master's Student in Economics and DataViz enthusiast from Brazil.
 
-Exploring data became central in my late work, and I wanna share some ideas and techniques here. The repositories below are mostly about data exploration and DataViz. 
+Exploring data became central in my late work, and I`d like to share some ideas and techniques here. The repositories below are mostly about EDA and DataViz. 
 
-I hope it helps you!
+I hope it helps!
 
 ### :book: Publications:
 * Vargas, D., Delazeri, L., & Hector, V. (2022). [Voluntary Carbon Market in Brazil: in Reality and in Practice](https://eesp.fgv.br/sites/eesp.fgv.br/files/ocbio_mercado_de_carbono_voluntario_no_brasil_na_realidade_e_na_pratica_en.pdf). Observatório de Bioeconomia. 
@@ -54,7 +58,7 @@ I hope it helps you!
             	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaUFs.png" width="300"/>
             </td>
             <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaGestoesMMA.png" width="300" width="300"/>
+            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaGestoesMMA.png" width="300">
             </td>
         </tr>
         <td style="padding:10px">
@@ -70,9 +74,11 @@ I hope it helps you!
 ### :chart_with_upwards_trend: Projects:
 * [**DataViz Chest**](https://github.com/HecVini/DataVizProjects): Some visualizations I've done for fun. Mostly in R with commented codes attached. I usually post them on [Twitter](https://twitter.com/hec_vini) and make a short thread to explain further details on the topic.
 
-* [**Databook Repo**](https://github.com/HecVini/DatabookRepo): complete repository with data on GHG emissions, the Brazilian economy and the environment. Mostly gathered during my internship at Observatório de Bioeconomia/FGV.
+* [**Databook Repo**](https://github.com/HecVini/DatabookRepo): a complete repository with data on GHG emissions, the Brazilian economy and the environment. Mostly gathered during my internship at Observatório de Bioeconomia/FGV.
 
-* [**CollegeCodes**](https://github.com/HecVini/CollegeCodes): academic projects that I worked on during my undergraduation in Economics. Mostly in R. This repository aims to be a tracker my coding skills development, since I first learned how to code, back in late 2020.
+* [**CollegeCodes**](https://github.com/HecVini/CollegeCodes): academic projects that I worked on during my undergraduation in Economics. Mostly in R. This repository aims track my coding skills development, since I first learned how to code, back in late 2020.
 
-### :man_technologist: Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HecVini&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
+
