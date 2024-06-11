@@ -20,11 +20,11 @@
 
 ### :man_technologist: About Me:
 
-Hi, I`m Vinicius. Economist, Master's Student in Economics and DataViz enthusiast from Brazil.
+Hi, I'm Vinicius. Economist, Master's student in Economics, and DataViz enthusiast from Brazil.
 
-Data Analyzis and econometrics became central in my late work. I would like to share some ideas and techniques here. The repositories below are mostly about EDA and DataViz. 
+Data analysis and econometrics have become central in my recent work. I would like to share some ideas and techniques here. The repositories below are mostly about EDA and DataViz.
 
-I hope it helps!
+I hope this helps!
 
 ### :book: Publications:
 * Vargas, D., Delazeri, L., & Hector, V. (2022). [Voluntary Carbon Market in Brazil: in Reality and in Practice](https://eesp.fgv.br/sites/eesp.fgv.br/files/ocbio_mercado_de_carbono_voluntario_no_brasil_na_realidade_e_na_pratica_en.pdf). Observatório de Bioeconomia. 
