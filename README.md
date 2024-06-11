@@ -22,7 +22,7 @@
 
 Hi, I`m Vinicius. Economist, Master's Student in Economics and DataViz enthusiast from Brazil.
 
-Exploring data became central in my late work, and I`d like to share some ideas and techniques here. The repositories below are mostly about EDA and DataViz. 
+Data Analyzis and econometrics became central in my late work. I would like to share some ideas and techniques here. The repositories below are mostly about EDA and DataViz. 
 
 I hope it helps!
 
