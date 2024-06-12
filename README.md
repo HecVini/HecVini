@@ -22,7 +22,7 @@
 
 Hi, I'm Vinicius. Economist, Master's student in Economics, and DataViz enthusiast from Brazil.
 
-Data analysis and econometrics have become central in my recent work. I would like to share some ideas and techniques here. The repositories below are mostly about EDA and DataViz.
+Data analysis and have become central in my recent work. I have also been working with GIS (in Python) and econometrics. I would like to share some ideas and techniques here.
 
 I hope this helps!
 
