@@ -1,7 +1,3 @@
-
-
-
-
 <div id="badges">
   <a href="https://linkedin.com/in/viniciushector">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,6 +13,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+### :chart_with_upwards_trend: Projects:
+* [**DataViz Chest**](https://github.com/HecVini/DataVizProjects): Some visualizations I've done for fun. Mostly in R with commented codes attached. I usually post them on [Twitter](https://twitter.com/hec_vini) and make a short thread to explain further details on the topic.
+
+* [**Databook Repo**](https://github.com/HecVini/DatabookRepo): a complete repository with data on GHG emissions, the Brazilian economy and the environment. Mostly gathered during my internship at Observatório de Bioeconomia/FGV.
+
+* [**CollegeCodes**](https://github.com/HecVini/CollegeCodes): academic projects that I worked on during my undergraduation in Economics. Mostly in R. This repository aims track my coding skills development, since I first learned how to code, back in late 2020.
 
 ### :man_technologist: About Me:
 
@@ -69,16 +71,3 @@ I hope this helps!
         	                </td>   
     </table>
 </div>
-
-
-### :chart_with_upwards_trend: Projects:
-* [**DataViz Chest**](https://github.com/HecVini/DataVizProjects): Some visualizations I've done for fun. Mostly in R with commented codes attached. I usually post them on [Twitter](https://twitter.com/hec_vini) and make a short thread to explain further details on the topic.
-
-* [**Databook Repo**](https://github.com/HecVini/DatabookRepo): a complete repository with data on GHG emissions, the Brazilian economy and the environment. Mostly gathered during my internship at Observatório de Bioeconomia/FGV.
-
-* [**CollegeCodes**](https://github.com/HecVini/CollegeCodes): academic projects that I worked on during my undergraduation in Economics. Mostly in R. This repository aims track my coding skills development, since I first learned how to code, back in late 2020.
-
-
-
-
-
