@@ -3,30 +3,43 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/hec_vini">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/X-blue?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+  </a>
+  <a href="https://github.com/HecVini/my_cv/blob/main/ViniciusHector_CV.pdf">
+    <img src="https://img.shields.io/badge/CV-blue?style=for-the-badge&logo=resume&logoColor=white" alt="CV Badge"/>
   </a>
 </div>
-
 
 <h1>
  Hello, World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+### :man_technologist: About Me:
+
+Hi, I'm Vinicius. Environmental Economist, Master's student in Economics and GIS enthusiast from Brazil.
+
+Data analysis has become central in my recent work. I have also been working with GIS and econometrics. I would like to share some ideas and techniques here.
+
+I hope this helps!
+
 ### :chart_with_upwards_trend: Projects:
+
+* [**Useful Resources**](https://github.com/HecVini/DataVizProjects): Interesting references I use in my day-to-day research activities in economics. It has resources on how to organize a research project, tools in R and Python, references for GIS, and other useful materials. (under construction).
+
+* [**R Awesome Packages**](https://github.com/HecVini/AwesomePackages): A complete list of useful R packages, organized by category: data analysis, dataviz, econometrics and APIs.
+
 * [**DataViz Chest**](https://github.com/HecVini/DataVizProjects): Some visualizations I've done for fun. Mostly in R with commented codes attached. I usually post them on [Twitter](https://twitter.com/hec_vini) and make a short thread to explain further details on the topic.
+
+* [**São Paulo IPTU 2023**](https://github.com/HecVini/DataVizProjects): A complete Python script for cleaning São Paulo's main property tax data (IPTU). This script merges IPTU data with district geometries and displays which neighborhoods, streets and properties paid the highest IPTU in 2023. This was part of the problem set for the Environmental Lab course 2024 at EPGE, where I served as the teaching assistant. The project is a thorough review of the main functions of the GeoPandas Python package. It also utilizes the Nominatim API to geolocate addresses. (under construction).
+
+* [**Calzada, Gisbert and Moscoso JAERE 2023 Replication**](https://github.com/HecVini/Replication_PesticidesPaper_Environmental2024/tree/main): replication project of "The Hidden Cost of Bananas: The Effects of Pesticides on Newborns’ Health", published in the Journal of the Association of Environmental and Resource Economists (JAERE) in 2023. This paper finds and quantifies how the widespread use of pesticides in banana plantations in Ecuador affects newborns' outcomes. The code in R replicates the original Stata script. It uses fixed-effect regressions with bootstraps to infer causality. Project done for the Environmental Economics class of 2024 at FGV EPGE with [Natália Trigo](https://github.com/nattrigo).
 
 * [**Databook Repo**](https://github.com/HecVini/DatabookRepo): a complete repository with data on GHG emissions, the Brazilian economy and the environment. Mostly gathered during my internship at Observatório de Bioeconomia/FGV.
 
 * [**CollegeCodes**](https://github.com/HecVini/CollegeCodes): academic projects that I worked on during my undergraduation in Economics. Mostly in R. This repository aims track my coding skills development, since I first learned how to code, back in late 2020.
 
-### :man_technologist: About Me:
-
-Hi, I'm Vinicius. Economist, Master's student in Economics, and DataViz enthusiast from Brazil.
-
-Data analysis and have become central in my recent work. I have also been working with GIS (in Python) and econometrics. I would like to share some ideas and techniques here.
-
-I hope this helps!
+* [**Epple, Quintero and Seig JPE 2020 Replication**](https://github.com/HecVini/Econometrics2023_PaperReplication): replication project of "A New Approach to Estimating Equilibrium Models for Metropolitan Housing Markets", published in the Journal of Political Economy (JPE) in 2020. This paper proposes a housing market equilibrium model and estimates parameters using the American Housing Survey (AHS) for New York and Chicago in 1999 and 2003. Project done for the Econometrics class of 2023 at FGV EPGE with [Guilherme Cota](https://github.com/guilhermecota), [Kaio Torres](https://github.com/blazekaio), [João Andrade](https://github.com/jvdeandrade) and Alex Almeida.  
 
 ### :book: Publications:
 * Vargas, D., Delazeri, L., & Hector, V. (2022). [Voluntary Carbon Market in Brazil: in Reality and in Practice](https://eesp.fgv.br/sites/eesp.fgv.br/files/ocbio_mercado_de_carbono_voluntario_no_brasil_na_realidade_e_na_pratica_en.pdf). Observatório de Bioeconomia. 
