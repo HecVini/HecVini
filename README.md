@@ -37,7 +37,7 @@ I hope this helps!
 
 * [**Databook Repo**](https://github.com/HecVini/DatabookRepo): a complete repository with data on GHG emissions, the Brazilian economy and the environment. Mostly gathered during my internship at Observatório de Bioeconomia/FGV.
 
-* [**CollegeCodes**](https://github.com/HecVini/CollegeCodes): academic projects that I worked on during my undergraduation in Economics. Mostly in R. This repository aims track my coding skills development, since I first learned how to code, back in late 2020.
+* [**CollegeCodes**](https://github.com/HecVini/CollegeCodes): academic projects that I worked on during my undergraduation in Economics (2019 - 2022). Mostly in R. This repository aims track my coding skills development, since I first learned how to code, back in late 2020.
 
 * [**Epple, Quintero and Sieg JPE 2020 Replication**](https://github.com/HecVini/Econometrics2023_PaperReplication): replication project of "A New Approach to Estimating Equilibrium Models for Metropolitan Housing Markets", published in the Journal of Political Economy (JPE) in 2020. This paper proposes a housing market equilibrium model and estimates parameters using the American Housing Survey (AHS) for New York and Chicago in 1999 and 2003. Project done for the Econometrics class of 2023 at FGV EPGE with [Guilherme Cota](https://github.com/guilhermecota), [Kaio Torres](https://github.com/blazekaio), [João Andrade](https://github.com/jvdeandrade) and Alex Almeida.  
 
