@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me:
 
-Hi, I'm Vinicius. Master's student in Economics, R and Python user and GIS enthusiast from Brazil.
+Hi, I'm Vinicius. Master's student in Economics, Python user and R enthusiast from Brazil.
 
 Data analysis has become central in my recent work. I have also been working with GIS and econometrics. I would like to share some ideas and techniques here.
 
