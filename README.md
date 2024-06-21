@@ -25,7 +25,7 @@ I hope this helps!
 
 ### :chart_with_upwards_trend: Projects:
 
-* [**Useful Resources**](https://github.com/HecVini/DataVizProjects): Interesting references I use in my day-to-day research activities in economics. It has resources on how to organize a research project, tools in R and Python, references for GIS, and other useful materials. (under construction - probably forever).
+* [**Useful Resources**](https://github.com/HecVini/useful_resources): Interesting references I use in my day-to-day research activities in economics. It has resources on how to organize a research project, tools in R and Python, references for GIS, and other useful materials. (under construction - probably forever).
 
 * [**R Awesome Packages**](https://github.com/HecVini/AwesomePackages): A complete list of useful R packages, organized by category: data analysis, dataviz, econometrics and APIs.
 
