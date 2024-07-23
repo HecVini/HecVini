@@ -27,6 +27,8 @@ I hope this helps!
 
 * [**Useful Resources**](https://github.com/HecVini/useful_resources): Interesting references I use in my day-to-day research activities in economics. It has resources on how to organize a research project, tools in R and Python, references for GIS, and other useful materials. (under construction - probably forever).
 
+* [**Python + Google Earth Engine: How to Clean MapBiomas LULC Rasters**](https://github.com/HecVini/useful_resources): A complete tutorial on how to use GEE's Python API. It cleans MapBiomas LULC data as an example. It was also posted on [Towards Data Science](https://medium.com/towards-data-science/python-google-earth-engine-how-to-clean-mapbiomas-lulc-rasters-for-any-shapefile-in-brazil-05d13dcf2307). 
+
 * [**R Awesome Packages**](https://github.com/HecVini/AwesomePackages): A complete list of useful R packages, organized by category: data analysis, dataviz, econometrics and APIs.
 
 * [**DataViz Chest**](https://github.com/HecVini/DataVizProjects): Some visualizations I've done for fun. Mostly in R with commented codes attached. I usually post them on [Twitter](https://twitter.com/hec_vini) and make a short thread to explain further details on the topic.
