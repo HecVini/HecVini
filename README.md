@@ -27,7 +27,7 @@ I hope this helps!
 
 * [**Useful Resources**](https://github.com/HecVini/useful_resources): Interesting references I use in my day-to-day research activities in economics. It has resources on how to organize a research project, tools in R and Python, references for GIS, and other useful materials. (under construction - probably forever).
 
-* [**Python + Google Earth Engine: How to Clean MapBiomas LULC Rasters**](https://github.com/HecVini/useful_resources): A complete tutorial on how to use GEE's Python API. It cleans MapBiomas LULC data as an example. It was also posted on [Towards Data Science](https://medium.com/towards-data-science/python-google-earth-engine-how-to-clean-mapbiomas-lulc-rasters-for-any-shapefile-in-brazil-05d13dcf2307). 
+* [**Python + Google Earth Engine: How to Clean MapBiomas LULC Rasters**](https://github.com/HecVini/python_gee_tutorial_mapbiomas): A complete tutorial on how to use GEE's Python API. It cleans MapBiomas LULC data as example. It was also posted on [Towards Data Science](https://medium.com/towards-data-science/python-google-earth-engine-how-to-clean-mapbiomas-lulc-rasters-for-any-shapefile-in-brazil-05d13dcf2307). 
 
 * [**R Awesome Packages**](https://github.com/HecVini/AwesomePackages): A complete list of useful R packages, organized by category: data analysis, dataviz, econometrics and APIs.
 
@@ -54,7 +54,7 @@ I hope this helps!
     <table>
         <tr>
             <td style="padding:10px">
-                <img src="" width="300"/>
+                <img src="https://github.com/HecVini/python_gee_tutorial_mapbiomas/blob/main/porto_acre_lulc%20(1).gif" width="300"/>
             </td>
             <td style="padding:10px">
                 <img src="https://github.com/HecVini/DataVizProjects/blob/main/GlobalInequality/GlobalInequality_Day6.png" width="300"/>
