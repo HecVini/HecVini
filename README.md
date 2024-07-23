@@ -52,37 +52,39 @@ I hope this helps!
 ### :bar_chart: DataViz:
 <div id="image-table">
     <table>
-	    <tr>
-    	    <td style="padding:10px">
-        	    <img src="https://github.com/HecVini/DataVizProjects/blob/main/GlobalInequality/GlobalInequality_Day6.png" width="300"/>
-      	    </td>
+        <tr>
             <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/Brazilian2022Elections_DorlingCartogram/Eleicoes2022_RegiaoImediata.png" width="300"/>
+                <img src="" width="300"/>
             </td>
             <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/Exportacoes2021/ExportacoesBrasileiras2021.png" width="300"/>
+                <img src="https://github.com/HecVini/DataVizProjects/blob/main/GlobalInequality/GlobalInequality_Day6.png" width="300"/>
+            </td>
+            <td style="padding:10px">
+                <img src="https://github.com/HecVini/DataVizProjects/blob/main/Brazilian2022Elections_DorlingCartogram/Eleicoes2022_RegiaoImediata.png" width="300"/>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding:10px">
+                <img src="https://github.com/HecVini/DataVizProjects/blob/main/Exportacoes2021/ExportacoesBrasileiras2021.png" width="300"/>
+            </td>
+            <td style="padding:10px">
+                <img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/MiddlePassage.jpg" width="300"/>
+            </td>
+            <td style="padding:10px">
+                <img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaUFs.png" width="300"/>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding:10px">
+                <img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaGestoesMMA.png" width="300"/>
+            </td>
+            <td style="padding:10px">
+                <img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/Emissoes2010to2030.png" width="300"/>
+            </td>
+            <td style="padding:10px">
+                <img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/EmissoesAnoBase.png" width="300"/>
             </td>
         </tr>
     </table>
 </div>
-<div id="image-table">
-    <table>
-	    <tr>
-    	    <td style="padding:10px">
-        	    <img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/MiddlePassage.jpg" width="300"/>
-      	    </td>
-            <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaUFs.png" width="300"/>
-            </td>
-            <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/DesmatamentoAmazoniaGestoesMMA.png" width="300">
-            </td>
-        </tr>
-        <td style="padding:10px">
-            	<img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/Emissoes2010to2030.png" width="300"/>
-            </td>   
-            <td style="padding:10px">
-        	    <img src="https://github.com/HecVini/DataVizProjects/blob/main/PreviousViz/EmissoesAnoBase.png" width="300"/>
-        	                </td>   
-    </table>
-</div>
+
