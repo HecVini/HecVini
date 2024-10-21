@@ -21,8 +21,6 @@ Hi, I'm Vinicius. Master's student in Economics, Python user and R enthusiast fr
 
 Data analysis has become central in my recent work. I have also been working with GIS and econometrics. I would like to share some ideas and techniques here.
 
-I hope this helps!
-
 ### :chart_with_upwards_trend: Projects:
 
 * [**Useful Resources**](https://github.com/HecVini/useful_resources): Interesting references I use in my day-to-day research activities in economics. It has resources on how to organize a research project, tools in R and Python, references for GIS, and other useful materials. (under construction - probably forever).
